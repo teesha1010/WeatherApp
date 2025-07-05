@@ -135,7 +135,7 @@ body::before{
 }
 
 .search-city{
-    filter: blur(1px);
+    text-align:center
 }
 
 
